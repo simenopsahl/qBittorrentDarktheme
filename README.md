@@ -5,6 +5,7 @@ A dark Night Owl theme for qBitTorrent made to match the [Night Owl theme for VS
 <img src="qbittorrent_NightOwl.png">
 
 [NightOwl.qbtheme](NightOwl.qbtheme)
+
 [NightOwl_v2.qbtheme](NightOwl_v2.qbtheme)
 
 Original readme follows:
