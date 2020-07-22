@@ -1,3 +1,14 @@
+# qBitTorrent Night Owl theme
+A dark Night Owl theme for qBitTorrent made to match the [Night Owl theme for VS Code by Sarah Drasner](https://github.com/sdras/night-owl-vscode-theme).
+
+**Settings dialog**
+<img src="qbittorrent_NightOwl.png">
+
+[NightOwl.qbtheme](NightOwl.qbtheme)
+[NightOwl_v2.qbtheme](NightOwl_v2.qbtheme)
+
+Original readme follows:
+
 # qBittorrent Dark theme
 Derived from: [**jagannatharjun**/qbt-theme/material](https://github.com/jagannatharjun/qbt-theme)
 
