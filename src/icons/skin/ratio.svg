@@ -1,4 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <path fill="#D1954E" d="M27.7 16.7h-6.6v11.5c0 .5-.2.9-.5 1.2-.4.3-.7.5-1.2.5h-6.6c-.5 0-.9-.2-1.2-.5-.3-.4-.5-.7-.5-1.2V17H4.5c-.7 0-1.2-.3-1.5-1-.4-.9-.2-1.4.3-1.9L14.8 2.6c.4-.3.7-.5 1.2-.5s.9.2 1.2.5L28.7 14c.5.5.6 1.2.3 1.9-.2.7-.7 1-1.3.8z"/>
-  <path fill="#D1954E" d="M27.6 3.6H4.4c-.8 0-1.5-.7-1.5-1.5S3.6.6 4.4.6h23.3c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.6 1.5z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ratio.svg"
+   id="svg929"
+   version="1.1"
+   viewBox="0 0 32 32">
+  <metadata
+     id="metadata935">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs933" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg929"
+     inkscape:cy="16"
+     inkscape:cx="16"
+     inkscape:zoom="34.072848"
+     showgrid="false"
+     id="namedview931"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     id="path925"
+     d="M27.7 16.7h-6.6v11.5c0 .5-.2.9-.5 1.2-.4.3-.7.5-1.2.5h-6.6c-.5 0-.9-.2-1.2-.5-.3-.4-.5-.7-.5-1.2V17H4.5c-.7 0-1.2-.3-1.5-1-.4-.9-.2-1.4.3-1.9L14.8 2.6c.4-.3.7-.5 1.2-.5s.9.2 1.2.5L28.7 14c.5.5.6 1.2.3 1.9-.2.7-.7 1-1.3.8z"
+     fill="#ecc48d" />
+  <path
+     id="path927"
+     d="M27.6 3.6H4.4c-.8 0-1.5-.7-1.5-1.5S3.6.6 4.4.6h23.3c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.6 1.5z"
+     fill="#ecc48d" />
 </svg>
